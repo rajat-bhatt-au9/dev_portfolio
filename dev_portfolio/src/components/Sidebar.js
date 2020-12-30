@@ -12,18 +12,18 @@ const Sidebar =()=>{
             <img src={mightycoder} alt='avatar' className='sidebar-avatar'/>
             <div className='sidebar-name'>Rajat <span>Bhatt</span></div>
             <div className='sidebar-item sidebar-title'>Web Developer</div>
-            <a href=''>
+            <a href='#'>
                 <div className='sidebar-item sidebar-resume'>
                     <img src={tie} alt='resume' className='sidebar-icon'/>Download Resume
                 </div>
             </a>
             <figure className='sidebar-social-icons my-2'>
-            <a href=''><img src={facebook} alt='facebook' className='sidebar-icon mr-3' /></a>
-            <a href=''><img src={instagram} alt='instagram' className='sidebar-icon' /></a>
+            <a href='#'><img src={facebook} alt='facebook' className='sidebar-icon mr-3' /></a>
+            <a href='#'><img src={instagram} alt='instagram' className='sidebar-icon' /></a>
             </figure>
             <div className='sidebar-contact'>
                 <div className='sidebar-item sidebar-github'>
-                    <a href=''><img src={github} alt='github' className='sidebar-icon mr-3' /> Github</a>
+                    <a href='#'><img src={github} alt='github' className='sidebar-icon mr-3' /> Github</a>
                 </div>
                 <div className='sidebar-location'><img src={pin} alt='location' className='sidebar-icon mr-3' />Dehradun, India</div>
                 <div className='sidebar-item mt-3'>rajatbhatt500@gmail.com</div>
